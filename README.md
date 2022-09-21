@@ -11,4 +11,4 @@ Steps for use:
  
  4. When ready press the *Screenshot* button to take a screenshot which will be saved in the *Screenshots/* folder
  
- 5.When done, press the red X button on tk window to end the program
+ 5. When done, press the red X button on tk window to end the program
