@@ -1,10 +1,13 @@
 import tkinter as tk
 from TakeScreenShot import take_screenshot
 
-WIDTH: int = 1000
-HEIGHT: int = 1000
+# Change these variables for desired top left starting point of screenshot
 X: int = 100
 Y: int = 100
+
+# Change these varibales for desired image height and width
+WIDTH: int = 1000
+HEIGHT: int = 1000
 
 app = tk.Tk(className="Screenshot")
 
