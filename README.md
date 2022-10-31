@@ -1,5 +1,5 @@
 # Screenshot-Taker
-A python script to take screenshots of a specified area of the computers screen name the images
+A python script to take screenshots of a specified area of the computers screen and name the images with a unique and iterable name
 
 Steps for use: 
  
